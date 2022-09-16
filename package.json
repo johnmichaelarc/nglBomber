@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "request": "^2.88.2",
+    "uuid": "^9.0.0"
+  },
+  "name": "ngl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chael Aracosta",
+  "license": "MIT",
+  "description": ""
+}
